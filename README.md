@@ -15,5 +15,17 @@ To run the project, make sure you have Python and jupyter notebook installed on 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/vehicle-routing-aco.git
-cd vehicle-routing-aco
+git clone https://github.com/your-username/vehicle-routing-aco.git](https://github.com/nimagarshasebi/A-hybrid-ant-colony-algorithm.git)https://github.com/nimagarshasebi/A-hybrid-ant-colony-algorithm.git
+Install the required dependencies:
+pip install -r requirements.txt
+
+Dataset
+The project uses datasets provided in the dataset/ directory. These datasets contain information about customers such as coordinates, demands, and time windows.
+Results
+After running the main script, the optimized routes for the vehicles are computed using the hybrid-ACO algorithm. Results are displayed and compared with other optimization methods.
+
+
+
+Acknowledgements
+This project is inspired by hybrid Ant Colony Optimization for Vehicle Routing Problem algorithms.
+The dataset used in this project is adapted from the VRP-REP repository.
